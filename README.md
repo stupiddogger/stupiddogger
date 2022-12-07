@@ -5,6 +5,6 @@
 
 
 - 🔭 I’m currently working on ML, DL & Data Mining
-- 🌱 I’m currently learning sequence anomaly detection, causal inference ect
+- 🌱 I’m currently learning sequence anomaly detection, causal inference, etc
 - 📫 How to reach me: 18513669677@163.com
 
